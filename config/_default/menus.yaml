@@ -1,0 +1,27 @@
+leftnav:
+- identifier: f2923270-5ac8-649f-3c95-31f72a01bc16
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 45a62b13-8528-b2b3-b58c-8f5d9460c3c1
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 89338d49-3acd-3d8d-074e-d2f15e915bb5
+  name: Readings and Films
+  pageRef: /pages/readingsandfilms
+  weight: 30
+- identifier: 9b338d40-ef99-f926-b7b2-f0db1f4abb89
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: c9bcb9f3-ab7d-b1c2-540f-48b4b505c152
+  name: Critical Response / Review Essay
+  pageRef: /pages/assignments/critical-response-review-essay
+  parent: 9b338d40-ef99-f926-b7b2-f0db1f4abb89
+  weight: 50
+- identifier: 26735790-2fac-cd7e-db8a-b41a5af7b619
+  name: Final Essay
+  pageRef: /pages/assignments/final-essay
+  parent: 9b338d40-ef99-f926-b7b2-f0db1f4abb89
+  weight: 60
